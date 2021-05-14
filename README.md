@@ -1,14 +1,9 @@
 # 283-assignment3
-
+## Team members
+Jinxuan Hu (013728936) Xuan Shi(013856401)
 ## Contribution of Team Members
-Jinxuan Hu:
-Modified the code in vmx.c
-ran testing
-Updated the documentation.
-Xuan Shi:
-Modified the code in cpuid.c
-Created the documentation.
-run testing
+Jinxuan Hu ---  modify the file cpuid.c, create the test file and update the documentation.
+Xuan Shi ----  modify the file vmx.c, compile the test file and create the documentation.
 
 ## steps: 
 We did this assignment based on the environment of assignment-2 and followed the same steps of environment setup.
