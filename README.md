@@ -22,9 +22,11 @@ remove the kvm_intel module by: $ sudo rmmod kvm_intel
 Compile the modified kernel code
 
 * In inner VM:
-** install cpuid package
-** create a test file
-** run test
+install cpuid package
+
+create a test file
+
+run test
 
 * In the outer VM
 run the “dmesg” command to show the output
@@ -35,6 +37,8 @@ By observation, the number of exists didn't increase.
 A full VM boot entail about 18000 exits. 
 
 4. Of the exit types defined in the SDM, which are the most frequent? Least?
-** Most frequent exit:
-** Least frequent exit:
+
+Most frequent exit:
+
+Least frequent exit:
 
