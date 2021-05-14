@@ -23,7 +23,8 @@ Compile the modified kernel code
 
 * In inner VM:
 install cpuid package
-Test each leaf by command in terminal
+create a test file
+run test
 
 * In the outer VM
 run the “dmesg” command to show the output
