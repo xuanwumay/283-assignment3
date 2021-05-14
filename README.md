@@ -31,7 +31,9 @@ https://github.com/xuanwumay/283-assignment3/blob/main/output-a3.txt
 
 ## Questions
 3. Comment on the frequency of exits – does the number of exits increase at a stable rate? Or are there more exits performed during certain VM operations? Approximately how many exits does a full VM boot entail?
-By observation, the number of exists is increasing, but it doesn't increase at a stable rate. 
+
+By observation, the number of exists is increasing, but it doesn't increase at a stable rate.
+
 A full VM boot entail about 230000 exits. 
 
 4. Of the exit types defined in the SDM, which are the most frequent? Least?
