@@ -22,6 +22,7 @@ remove the kvm_intel module by: $ sudo rmmod kvm_intel
 Compile the modified kernel code
 
 * In inner VM:
+
 install cpuid package
 
 create a test file
